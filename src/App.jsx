@@ -5,8 +5,8 @@ import './App.css'
 // import { Router } from 'express'
 import {BrowserRouter as Router, Routes, Route} from "react-router-dom"
 import Home from './Home'
-import Login from './Login'
-import Signup from './signup'
+import Login from './Login.jsx'
+import Signup from './Signup.jsx'
 
 
 
