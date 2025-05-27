@@ -1,7 +1,10 @@
 export function Home() {
 
   return (
-   <h1>home page</h1>
+  <div>
+    <Link to="/login">Login</Link>
+    <Link to="/signup">signup</Link>
+  </div>  
   )
 }
 
